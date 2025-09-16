@@ -23,7 +23,7 @@ All experiments and model training were conducted on a high-performance computin
 ---
 ## Dataset Details
 
-This project utilizes three benchmark datasets for road extraction from remote sensing imagery:
+This project utilizes two benchmark datasets for road extraction from remote sensing imagery:
 
 ### 1. Massachusetts Roads Dataset (MIT)
 
