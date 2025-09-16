@@ -2,7 +2,7 @@
 
 This repository contains code and models for **automatic road extraction** from satellite imagery using deep learning technique.
 
-## 📌 Overview
+## Overview
 
 The goal of this project is to perform **binary semantic segmentation** of roads from high-resolution satellite images. 
 
@@ -43,27 +43,27 @@ This project utilizes three benchmark datasets for road extraction from remote s
 
 ---
 
-## 🧪 Experimental Results
+## Experimental Results
 
-### 🔹 Model Comparison – Quantitative
+### Model Comparison – Quantitative
 
 <p align="center">
   <img src="compquan.png" alt="Comparison Table" width="700"/>
 </p>
 
-### 🔹 Model Comparison – Qualitative
+### Model Comparison – Qualitative
 
 <p align="center">
   <img src="compqual.png" alt="Comparison Images" width="700"/>
 </p>
 
-### 🔹 Ablation Study – Quantitative
+### Ablation Study – Quantitative
 
 <p align="center">
   <img src="ablquan.png" alt="Ablation Table" width="700"/>
 </p>
 
-### 🔹 Ablation Study – Qualitative
+### Ablation Study – Qualitative
 
 <p align="center">
   <img src="fig4.png" alt="Ablation Images" width="700"/>
@@ -77,4 +77,4 @@ This project utilizes three benchmark datasets for road extraction from remote s
 conda env create -f CSUNetenvironment.yml
 conda activate tfclone
 
-# 2. Run GADCKANNet-MIT.ipynb file using environment tfclone
+# 2. Run CSUNet.ipynb file using environment tfclone
