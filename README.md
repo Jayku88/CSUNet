@@ -29,7 +29,7 @@ The goal of this project is to perform **binary semantic segmentation** of roads
 ### 🔹 Ablation Study – Qualitative
 
 <p align="center">
-  <img src="Ablation_Qualitative.png" alt="Ablation Images" width="700"/>
+  <img src="fig4.png" alt="Ablation Images" width="700"/>
 </p>
 
 
