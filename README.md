@@ -11,19 +11,19 @@ The goal of this project is to perform **binary semantic segmentation** of roads
 ### 🔹 Model Comparison – Quantitative
 
 <p align="center">
-  <img src="fig3.pdf.png" alt="Comparison Table" width="700"/>
+  <img src="compquan.png" alt="Comparison Table" width="700"/>
 </p>
 
 ### 🔹 Model Comparison – Qualitative
 
 <p align="center">
-  <img src="Comparison_Qualitative.png" alt="Comparison Images" width="700"/>
+  <img src="compqual.png" alt="Comparison Images" width="700"/>
 </p>
 
 ### 🔹 Ablation Study – Quantitative
 
 <p align="center">
-  <img src="fig4.png" alt="Ablation Table" width="700"/>
+  <img src="ablquan.png" alt="Ablation Table" width="700"/>
 </p>
 
 ### 🔹 Ablation Study – Qualitative
