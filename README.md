@@ -42,15 +42,6 @@ This project utilizes three benchmark datasets for road extraction from remote s
 - **Source**: [DG](https://ieeexplore.ieee.org/document/8575485)
 
 ---
-## Installation Guide (Using Conda)
-
-```bash
-
-# 1. Create the Conda environment
-conda env create -f GADCKANNetenvironment.yml
-conda activate tfclone
-
-# 2. Run GADCKANNet-MIT.ipynb file using environment tfclone
 
 ## 🧪 Experimental Results
 
@@ -78,4 +69,12 @@ conda activate tfclone
   <img src="fig4.png" alt="Ablation Images" width="700"/>
 </p>
 
+## Installation Guide (Using Conda)
 
+```bash
+
+# 1. Create the Conda environment
+conda env create -f GADCKANNetenvironment.yml
+conda activate tfclone
+
+# 2. Run GADCKANNet-MIT.ipynb file using environment tfclone
